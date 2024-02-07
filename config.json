@@ -1,0 +1,1 @@
+{"image_name": "my-wasm-image", "file_path": "./src/example.cpp", "destination": "./build"}
